@@ -11,8 +11,7 @@ I am currently learning:
 - iOS development basics - Udemy Course
 
 I am currently working on:
-- iOS application for currency conversion (MVC design pattern) - repository will go public soon!
-- iOS application to create real lifestyle changes - repository will go public soon!
-- Top-secret game with a bunch of my friends 
+- Windows Presentation Foundation (WPF) launcher for Doki Doki Literature Club and DDLC Plus games, with the GUI like the DDLC Plus Desktop environment. This is a Figma mockup: ![Figma Mockup of current project](https://user-images.githubusercontent.com/77190945/124393048-5fbc5b80-dd1a-11eb-870a-65dcbdbc8999.png)
+_Background image is a property of [Team Salvato](http://teamsalvato.com/)/[SerenityForge](https://serenityforge.com/), used for testing and evaluation purposes only and will not be included in the final version._
 
 Take a look around, and contact me via LinkedIn (alisherturubayev)!
