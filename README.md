@@ -1,6 +1,6 @@
 # Hey there!
 
-My name is Alisher Turubayev, and I am a recent Computer Science graduate from Trent University, Canada. I am currently pursuing a Master's degree in Digital Health at Hasso-Plattner Institute (HPI) at Potsdam, Germany.
+My name is Alisher Turubayev, and I am a recent Computer Science graduate from Trent University, Canada. I am currently pursuing a Master's degree in Digital Health at Hasso-Plattner Institute (HPI) in Potsdam, Germany.
 
 My interests include:
 - 📱 Mobile App development
@@ -8,10 +8,10 @@ My interests include:
 - 🎮 Game design and development
 
 I graduated with:
-- B.Sc. (General) in Computer Science - Trent University, Peterborough, ON, Canada (2017 - 2021).
+- B.Sc. (General) in Computer Science - Trent University - Peterborough, ON, Canada (2017 - 2021).
 
 I am currently learning:
-- M.Sc. in Digital Health - Hasso-Plattner Institute, Potsdam, Germany (2021 - 23).
+- M.Sc. in Digital Health - Hasso-Plattner Institute (HPI) - Potsdam, Germany (2021 - 23).
 
 I am currently working on:
 - Windows Presentation Foundation (WPF) launcher for Doki Doki Literature Club and DDLC Plus games, with the GUI like the DDLC Plus Desktop environment. 
