@@ -9,7 +9,7 @@ My interests include:
 
 I graduated:
 - B.Sc. (General) in Computer Science - Trent University - Peterborough, ON, Canada (2017 - 2021)
-- M.Sc. in Digital Health - Hasso-Plattner Institute (HPI) - Potsdam, Germany (2021 - 24) * _final grade not available at the moment_
+- M.Sc. in Digital Health - Hasso-Plattner Institute (HPI) - Potsdam, Germany (2021 - 24)
 
 I am currently learning:
 - Interview problems on [LeetCode](https://leetcode.com/allieturubayev/)
